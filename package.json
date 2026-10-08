@@ -1,0 +1,13 @@
+{
+  "name": "ticketbookingsystem",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
